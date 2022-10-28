@@ -1,0 +1,14 @@
+
+
+.row h1 {
+color: pink;
+}
+.row p{
+font-style: italic;
+color: blue;
+}
+.div1 {
+  height: 250px;
+  width: 250px;
+  background-color:yellow;
+}
